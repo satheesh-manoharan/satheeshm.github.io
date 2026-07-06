@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600">
+  <rect width="1200" height="600" rx="24" fill="#f4f7fb"/>
+  <rect x="80" y="100" width="1040" height="400" rx="20" fill="#ffffff" stroke="#dfe7f5" stroke-width="3"/>
+  <rect x="120" y="150" width="240" height="120" rx="16" fill="#4a76ee" opacity="0.9"/>
+  <rect x="390" y="150" width="320" height="120" rx="16" fill="#e7eefc"/>
+  <rect x="740" y="150" width="320" height="120" rx="16" fill="#e7eefc"/>
+  <rect x="120" y="320" width="940" height="120" rx="16" fill="#eef4ff"/>
+  <path d="M180 240 L240 210 L300 180" stroke="#ffffff" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M450 240 L560 240" stroke="#4a76ee" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M800 240 L910 240" stroke="#4a76ee" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <circle cx="180" cy="240" r="12" fill="#ffffff"/>
+  <circle cx="300" cy="180" r="12" fill="#ffffff"/>
+  <rect x="150" y="355" width="180" height="18" rx="9" fill="#4a76ee" opacity="0.75"/>
+  <rect x="360" y="355" width="220" height="18" rx="9" fill="#4a76ee" opacity="0.45"/>
+  <rect x="620" y="355" width="180" height="18" rx="9" fill="#4a76ee" opacity="0.45"/>
+  <text x="120" y="520" font-size="32" font-family="Arial, sans-serif" fill="#1a1c20">Self-Service Analytics</text>
+</svg>

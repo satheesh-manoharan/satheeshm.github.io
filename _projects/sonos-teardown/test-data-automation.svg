@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600">
+  <rect width="1200" height="600" rx="24" fill="#f7f9fc"/>
+  <rect x="80" y="100" width="1040" height="400" rx="20" fill="#ffffff" stroke="#dfe7f5" stroke-width="3"/>
+  <rect x="140" y="150" width="260" height="220" rx="20" fill="#eef4ff"/>
+  <rect x="470" y="150" width="260" height="220" rx="20" fill="#eef4ff"/>
+  <rect x="800" y="150" width="260" height="220" rx="20" fill="#eef4ff"/>
+  <path d="M190 220 H380" stroke="#4a76ee" stroke-width="12" stroke-linecap="round"/>
+  <path d="M520 220 H710" stroke="#4a76ee" stroke-width="12" stroke-linecap="round"/>
+  <path d="M850 220 H1040" stroke="#4a76ee" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="190" cy="220" r="14" fill="#4a76ee"/>
+  <circle cx="380" cy="220" r="14" fill="#4a76ee"/>
+  <circle cx="520" cy="220" r="14" fill="#4a76ee"/>
+  <circle cx="710" cy="220" r="14" fill="#4a76ee"/>
+  <circle cx="850" cy="220" r="14" fill="#4a76ee"/>
+  <circle cx="1040" cy="220" r="14" fill="#4a76ee"/>
+  <rect x="140" y="420" width="920" height="40" rx="20" fill="#4a76ee" opacity="0.2"/>
+  <text x="140" y="520" font-size="32" font-family="Arial, sans-serif" fill="#1a1c20">Test Data Automation</text>
+</svg>
